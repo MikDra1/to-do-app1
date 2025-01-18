@@ -25,7 +25,7 @@ const Container = styled.div`
   }
 `;
 
-const Link = styled.a`
+const Link = styled.p`
   color: ${(props) => props.theme.text};
   font-weight: 600;
   cursor: pointer;
